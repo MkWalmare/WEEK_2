@@ -1,0 +1,41 @@
+img {
+    width: 30%;
+    height: 40%;
+    border-radius: 25%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    margin: 5px;
+}
+
+.Middle {
+    text-align: center;
+}
+
+.textPic {
+
+    margin-left: 5px;
+}
+
+.textfont {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.background {
+    background-color: #A5D8DD;
+}
+.fontsize{
+    font-size: 25px;
+}
+
+.KnowAboutMe {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.highlight {
+    padding: 5px;
+    background-color:darkgrey;
+    border-radius: 5px;
+}
